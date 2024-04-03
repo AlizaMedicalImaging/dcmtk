@@ -1027,7 +1027,7 @@ const char* dcmLongSCUStorageSOPClassUIDs[] = {
 //  UID_ParametricMapStorage,
 //  UID_PatientRadiationDoseSRStorage,
 //  UID_PerformedImagingAgentAdministrationSRStorage,
-//  UID_PhotoacousticImageStorage,
+    UID_PhotoacousticImageStorage,
 //  UID_PlannedImagingAgentAdministrationSRStorage,
 //  UID_RadiopharmaceuticalRadiationDoseSRStorage,
 //  UID_RoboticArmRadiationStorage,
@@ -1064,7 +1064,7 @@ const char* dcmLongSCUStorageSOPClassUIDs[] = {
 //  UID_ProtocolApprovalStorage,
 //  UID_XADefinedProcedureProtocolStorage,
     // retired
-    UID_RETIRED_HardcopyColorImageStorage,
+//  UID_RETIRED_HardcopyColorImageStorage,
     UID_RETIRED_HardcopyGrayscaleImageStorage,
     UID_RETIRED_NuclearMedicineImageStorage,
     UID_RETIRED_StandaloneCurveStorage,
