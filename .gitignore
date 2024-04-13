@@ -3,6 +3,7 @@
 *.so
 *.a
 build
+tags
 
 # Ignore all Makefiles except the top-level one
 Makefile

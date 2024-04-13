@@ -1,3 +1,6 @@
 dcmnet;dcmtls;dcmdata;oflog;ofstd;oficonv;dcmjpls;dcmjpeg
 
 disable WRAP if found
+
+DCMTK_COMPILE_WIN32_MULTITHREADED_DLL should be ON
+
